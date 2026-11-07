@@ -1,0 +1,5 @@
+# GitHub Pages settings. The site is plain HTML; these files are kept in the repo but NOT published.
+exclude:
+  - README.md
+  - CLAUDE.md
+  - tools
